@@ -1,0 +1,9 @@
+*.o
+/regex
+/spirit1_simple
+/spirit2_grammar
+/spirit3_arithmetic
+/spirit4_struct
+/spirit5_ast
+/spirit6_ast
+/spirit7_html
